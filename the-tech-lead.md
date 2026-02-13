@@ -1,0 +1,5 @@
+- who is the project lead
+- what do they do 
+- how do they relate to EM/team lead/founder
+- how do you coach them
+- proposals and the importance of good writing
