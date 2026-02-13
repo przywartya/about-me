@@ -78,4 +78,4 @@ I'll dig deeper into this in my next post: [Tech Debt as Innovation](./tech-debt
 
 That's a much harder thing to delegate. You can teach a senior engineer to review code well. Teaching someone to make good product calls requires them to have the full context of the business, the users, the strategy. The question becomes: can you grow a project lead who is not just the technical lead but the product lead for that scope? Can you delegate product thinking the same way you delegate code reviews?
 
-I'm still working through this one. More on that soon.
+[I'm still working through this one. More on that soon.](https://github.com/przywartya/about-me/blob/main/delegating-product-leadership.md)
