@@ -28,7 +28,7 @@ I think about this as two parallel tracks for how a team can operate without you
 
 ### Track 1: Project-Based Ownership
 
-When you have a project, the tech lead of that project should be the person reviewing all the PRs. They're managing the team that's pushing the project forward, they have the deepest context on what's being built, and they're the natural owner of code quality for that body of work. You don't need to be involved. The project lead is accountable.
+When you have a project, the [tech lead](https://github.com/przywartya/about-me/blob/main/the-tech-lead.md) of that project should be the person reviewing all the PRs. They're managing the team that's pushing the project forward, they have the deepest context on what's being built, and they're the natural owner of code quality for that body of work. You don't need to be involved. The project lead is accountable.
 
 This is the easier one to set up because projects have natural boundaries and a clear lead. If you've scoped the project well and picked the right lead, they should be fully capable of deciding what's safe to ship.
 
@@ -70,4 +70,4 @@ Here's the thing though: it doesn't have to stay unstructured. You can take a ch
 
 You're basically taking the same playbook from Track 1 and applying it to work that people usually treat as background noise. You're assigning a leader to a problem.
 
-I'll dig deeper into this in my next post: [Tech Debt as Innovation](https://github.com/przywartya/about-me/blob/main/tech-debt-as-innovation.md) — how to stop treating tech debt as a chore and start structuring it as a project and the kind of work that actually moves the product forward.
+I'll dig deeper into this in my next post: [Tech Debt as Innovation](./tech-debt-as-innovation.md) — how to stop treating tech debt as a chore and start structuring it as the kind of work that actually moves the product forward.
