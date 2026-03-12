@@ -40,19 +40,11 @@ The difference is subtle but it matters: you're not buttering them up before the
 
 **Fairness** is about consistency. If you only give feedback when things go wrong, or if different people get different treatment for the same behavior, you trigger a fairness threat. Use objective data. Be consistent. Don't surprise people at the end of a cycle with feedback they never heard during the year.
 
-## Ask for Feedback (Don't Just Give It)
+## A Note on "Ask for Feedback"
 
-Here's where most leaders get it backwards. We spend all our time training people to *give* feedback better. But research from the NeuroLeadership Institute shows something counterintuitive: **the most brain-friendly approach is to focus on asking for feedback, not giving it.**
+There's a practice I believe is foundational for making all of this easier: **building a culture where your direct reports ask you for feedback themselves.** When that happens, 80% of the feedback conversations you used to dread become a walk in the park — because they're inviting you to tell them what to change, not the other way around. I wrote about how to build this in a separate post: [Ask for Feedback (Don't Just Give It)](/ask-for-feedback).
 
-When someone asks for feedback, the threat response drops dramatically — for both sides. The person asking is in control (autonomy). They chose to hear it (certainty). And the person responding isn't in the uncomfortable position of delivering unsolicited criticism.
-
-So how does this play out in practice? As a leader, you need to model this behavior. You are asking your team all the time: what can I do better? What's not working? How am I handling this situation?
-
-But here's the key: **you have to make it personal.** Don't ask "how's the team doing?" That's too abstract. Ask "how am I dealing with this issue?" or "are you happy with how I've been solving this problem so far?" Give them a specific thing to react to.
-
-And get specific about your own growth edges. If you're not sure whether you're a good active listener, ask: "Do you think I'm a good active listener? I honestly don't know, and I'd like your honest take." That kind of vulnerability — admitting you don't know something about yourself — is what opens the door to real feedback.
-
-Now here's the tricky part — people will lie to you. They will say everything is fine and you're doing great, because you're their boss. You have power over their career. So the first few times you ask, you'll get polished, safe answers. That's normal. Keep asking. The trust builds over time.
+But I want to be clear about where it fits. Asking for feedback is a **long-term, preventive strategy** — it's something you build into your team's culture over months. It is not a tool for putting out a fire. If you're reading this article because you have a problem right now and you never built that foundation, don't stop to introduce "ask for feedback" into your team before addressing the issue. Solve the problem first. Start building the culture in parallel, so next time it's easier.
 
 ## The "I Statement" Technique
 
@@ -101,6 +93,9 @@ Sometimes you give feedback, you give space, you give time, and things don't cha
 **It's a game of balance.** Are you happy to live with the negative consequences of this problem continuing to exist on your team? That's the question you keep coming back to. The spreadsheet helps you answer it with evidence rather than gut feel.
 
 **Track your team's feedback too.** It's the team who is suffering the most from a teammate's underperformance. They're the ones cleaning up the mess, decoding the unclear messages, picking up the slack. Their feedback goes into the spreadsheet too. Their experience matters.
+
+<img width="1036" height="841" alt="image" src="https://github.com/user-attachments/assets/2b6244be-e394-428a-99a9-cec7b58bbe1c" />
+
 
 ## The Decision
 
