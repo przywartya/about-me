@@ -70,7 +70,7 @@ The support volume has grown enough that the Ops person is drowning. Engineering
 
 For most startups, this happens somewhere between 5 and 15 engineers, depending on the complexity of your product and the volume of your user base. A B2B SaaS with 50 customers has different operational load than a consumer fintech with 5,000 users.
 
-When you get there, the Ops person doesn't go away — they become the anchor for a more structured system. The Forest Ranger rotation handles the engineering side of support, and the Ops person continues handling everything that doesn't need code. Read [The Forest Ranger](/forest-ranger) for the full playbook.
+When you get there, the Ops person doesn't go away — they become the anchor for a more structured system. The Forest Ranger rotation handles the engineering side of support, and the Ops person continues handling everything that doesn't need code. Read [The Forest Ranger](https://github.com/przywartya/about-me/blob/main/The%20Forest%20Ranger%3A%20How%20to%20Protect%20Your%20Team's%20Focus.md) for the full playbook.
 
 ## The CEO Trap
 
