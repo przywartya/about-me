@@ -1,6 +1,6 @@
 # The Forest Ranger at a Seed-Stage Startup
 
-I wrote about [The Forest Ranger](/forest-ranger) as a concept for established engineering teams — multiple engineers, dedicated stakeholders, a mature product with real operational load. But what about a seed-stage startup where you have a CEO who codes, five engineers, and one GTM person handling support, sales, and marketing all at once?
+I wrote about [The Forest Ranger: How to Protect Your Team's Focus](https://github.com/przywartya/about-me/blob/main/The%20Forest%20Ranger:%20How%20to%20Protect%20Your%20Team's%20Focus.md) as a concept for established engineering teams — multiple engineers, dedicated stakeholders, a mature product with real operational load. But what about a seed-stage startup where you have a CEO who codes, five engineers, and one GTM person handling support, sales, and marketing all at once?
 
 The core philosophy doesn't change: **focus is the most precious resource, and someone has to protect it.** But the mechanics change completely. You can't run a weekly rotation when losing one engineer means losing 20% of your engineering capacity. You need a fundamentally different approach.
 
@@ -92,4 +92,4 @@ Do support yourself first. Document as you go. Hire the Ops person. Hand them th
 
 ---
 
-*This post is a companion to [The Forest Ranger: How to Protect Your Team's Focus](/forest-ranger), which covers the full model for established teams.*
+*This post is a companion to [The Forest Ranger: How to Protect Your Team's Focus](https://github.com/przywartya/about-me/blob/main/The%20Forest%20Ranger:%20How%20to%20Protect%20Your%20Team's%20Focus.md), which covers the full model for established teams.*
