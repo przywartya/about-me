@@ -24,7 +24,7 @@ Their job is simple:
 
 **Resolve everything that doesn't require a code change.** Refunds, common troubleshooting, account deletions, password resets, onboarding questions. If it doesn't require an engineer to change code, the Ops person handles it end to end. That's the bright line.
 
-**Escalate technical issues with context.** When something is a real bug, the Ops person creates a ticket with reproduction steps, customer impact, and any patterns they've noticed ("this is the third person to report this flow breaking"). They don't just forward the Slack message — they add value in the handoff.
+**Escalate technical issues with context.** When something is a real bug, the Ops person creates a ticket with reproduction steps, customer impact, and any patterns they've noticed ("this is the third person to report this flow breaking"). Hopefully they can not only forward the Slack message, but maybe even add some value in the handoff.
 
 **Close the loop.** When engineering ships a fix, the Ops person goes back to every affected customer and tells them. This is the part that falls through the cracks when support is everyone's side job. Closing the loop is what turns a frustrated customer into a loyal one.
 
